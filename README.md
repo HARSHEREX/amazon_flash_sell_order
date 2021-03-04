@@ -8,7 +8,7 @@
   - Enter id with country code {example : +91**********}
   - Enter your password
   - Enter product web url
-  - **NOW THE TOLL WILL LOGIN WITH YOUR CREDENTIALS SO ENTER OTP MANYALLY OR AUTHORIZE VIA YOUR PHONE**
+  - **NOW THE TOOL WILL LOGIN WITH YOUR CREDENTIALS SO ENTER OTP MANYALLY OR AUTHORIZE VIA YOUR PHONE**
   - Now wait and enjoy untill the buy now button pops up 
  
 
