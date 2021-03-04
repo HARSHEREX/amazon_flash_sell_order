@@ -10,5 +10,6 @@
   - Enter product web url
   - **NOW THE TOOL WILL LOGIN WITH YOUR CREDENTIALS SO ENTER OTP MANYALLY OR AUTHORIZE VIA YOUR PHONE**
   - Now wait and enjoy untill the buy now button pops up 
+  - And order is placed 
  
 
