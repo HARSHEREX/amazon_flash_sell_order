@@ -8,7 +8,7 @@ import time
 import pandas as pd
 #####################################id pass
 print('\n----  order will be on cash on delivery  ----\n----  please set a default address on amazon before using this automation tool ----')
-loginid =input('Enter amazon id with country code (+91) : ')
+loginid =input('Enter amazon id with country code eg:(+91) : ')
 passs = input('amazon password : ')
 pay_selection = 1
 url = input("enter product url : ")
